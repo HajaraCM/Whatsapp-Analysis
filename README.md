@@ -1,6 +1,7 @@
 # WhatsApp Chat Analysis
 
 This project analyzes WhatsApp chat data to extract meaningful insights and visualizations about communication patterns, message statistics, and more.
+
 https://github.com/user-attachments/assets/48ec9017-beea-4fd4-a301-6c0570a4708b
 ## Features
 - **Chat Statistics:**
